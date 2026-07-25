@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/file-organizer-banner.svg" alt="File Organizer" width="100%">
+  <img src="./file-organizer-banner.svg" alt="File Organizer" width="100%">
 </p>
 
 <p align="center">
